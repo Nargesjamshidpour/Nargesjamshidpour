@@ -10,7 +10,7 @@
 ---
 
 ## 🧩 About Me
-I am a WordPress developer with solid experience across custom theme development, plugin engineering, and WooCommerce integrations.  
+I am a front-end - back-end and WordPress developer with solid experience across custom theme development, plugin engineering, and WooCommerce integrations.  
 Over the last two years, I have expanded my work into **automation (n8n, Make)** and **AI integrations**, creating smart assistants for websites, ticketing systems, and Instagram admin workflows.
 
 My focus is building **scalable**, **practical**, and **business-oriented** solutions for brands.
@@ -47,6 +47,8 @@ My focus is building **scalable**, **practical**, and **business-oriented** solu
 - Built AI-powered assistants for websites and Instagram admins.  
 - Created WordPress plugins for error analysis & automated debugging suggestions.  
 - Worked on custom login/register panels and user dashboards.
+- front-end (html - css - js)
+- back-end (PHP)
 
 ---
 
