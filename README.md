@@ -77,12 +77,17 @@ My focus is building **scalable**, **practical**, and **business-oriented** solu
 ---
 
 ## 📦 Notable Projects
-*(To be filled later — placeholders only)*
 
 - **Instagram Admin Assistant** —  
 - **Support Ticket AI Assistant** —  
 - **WordPress Error Analysis & Solution Plugin** —  
-- **Elementor Base Theme (WooCommerce Compatible)** —  
+- **Elementor Base Theme (WooCommerce Compatible)** —
+- **wordpress login register plugin** —
+- **wordpress user profile plugin** —
+- **wordpress refureall code plugin** —
+- **wordpress podcast theme** —
+- **wordpress user profile plugin** —
+- **wordpress Job Posting for instagram admins theme** —
 
 ---
 
