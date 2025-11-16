@@ -93,8 +93,6 @@ My focus is building **scalable**, **practical**, and **business-oriented** solu
 
 ## 🎓 Education : Software Engineering — Jahad Daneshgahi - 1395
 
----
-
 ## 🌐 Languages
 - **Persian** — Native  
 - **English** — Intermediate (Reading & Understanding Strong)
