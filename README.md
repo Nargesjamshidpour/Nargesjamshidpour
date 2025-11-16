@@ -91,9 +91,8 @@ My focus is building **scalable**, **practical**, and **business-oriented** solu
 
 ---
 
-## 🎓 Education
-**Software Engineering — Jahad Daneshgahi**  -
-1995
+## 🎓 Education : Software Engineering — Jahad Daneshgahi - 1395
+
 ---
 
 ## 🌐 Languages
